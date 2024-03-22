@@ -6,5 +6,5 @@ import sys
 
 #3/22 main account
 sum = 0
-
-#2번째 문제
+sum += 5
+print(f'Sum is {sum}')
