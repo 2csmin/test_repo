@@ -6,3 +6,4 @@ import sys
 
 #3/22
 sum = 0
+sum += 5
