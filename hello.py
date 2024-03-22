@@ -8,5 +8,3 @@ import sys
 sum = 0
 sum += 5
 print(f'Sum is {sum}')
-#3/22
-333333333
